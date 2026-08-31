@@ -169,5 +169,8 @@
   },
   "4.5.0": {
     "en": "Add WM Dimmer"
+  },
+  "4.5.1": {
+    "en": "Fixed invalid groupId for Z-Water and Z-Relay"
   }
 }
