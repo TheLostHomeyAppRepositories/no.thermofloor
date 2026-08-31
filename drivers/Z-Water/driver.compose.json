@@ -59,7 +59,7 @@
 				"en": "1. Click the small button through the little hole, marked with the text “INCLUSION”, in front of the Heatit Z-Water regulator. \n2. The Adding Mode is indicated by Heatit Z-Water status LED is blinking until a timeout occurs after 10 seconds or if the module has been added to the Z-Wave network."
 			}
 		},
-		"associationGroupsMultiChannel": [1.1],
+		"associationGroupsMultiChannel": [1],
 		"associationGroupsOptions": {
 			"1": {
 				"hint": {

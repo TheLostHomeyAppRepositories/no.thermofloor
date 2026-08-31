@@ -56,7 +56,7 @@
 				"en": "Activate the add mode on the device by clicking the inclusion button in the module. \nThe Adding Mode is indicated by status LED is blinking until a timeout occurs after 10 seconds or if the module has been added to the Z-Wave network."
 			}
 		},
-		"associationGroupsMultiChannel": [1.1],
+		"associationGroupsMultiChannel": [1],
 		"associationGroupsOptions": {
 			"1": {
 				"hint": {
